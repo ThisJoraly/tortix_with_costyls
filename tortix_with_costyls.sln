@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tortix_with_costyls", "tortix_with_costyls.csproj", "{68354A69-DEC3-44D2-9047-D115E635F28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68354A69-DEC3-44D2-9047-D115E635F28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68354A69-DEC3-44D2-9047-D115E635F28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68354A69-DEC3-44D2-9047-D115E635F28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68354A69-DEC3-44D2-9047-D115E635F28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
