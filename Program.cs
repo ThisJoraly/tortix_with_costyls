@@ -10,6 +10,7 @@
 
         static void Start()
         {
+            //мяу
             bool MainExitTrigger = true;
             List<Items> show = new List<Items>();
             while (MainExitTrigger)
