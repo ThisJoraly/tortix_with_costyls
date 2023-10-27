@@ -1,0 +1,15 @@
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\bin\Debug\net7.0\tortix_with_costyls.exe
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\bin\Debug\net7.0\tortix_with_costyls.deps.json
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\bin\Debug\net7.0\tortix_with_costyls.runtimeconfig.json
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\bin\Debug\net7.0\tortix_with_costyls.dll
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\bin\Debug\net7.0\tortix_with_costyls.pdb
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\tortix_with_costyls.csproj.AssemblyReference.cache
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\tortix_with_costyls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\tortix_with_costyls.AssemblyInfoInputs.cache
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\tortix_with_costyls.AssemblyInfo.cs
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\tortix_with_costyls.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\tortix_with_costyls.dll
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\refint\tortix_with_costyls.dll
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\tortix_with_costyls.pdb
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\tortix_with_costyls.genruntimeconfig.cache
+C:\Users\Artyom\RiderProjects\tortix_with_costyls\obj\Debug\net7.0\ref\tortix_with_costyls.dll
