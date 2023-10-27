@@ -12,6 +12,7 @@
 
         static void Start()
         {
+            Console.Clear();
             //мяу
             bool MainExitTrigger = true;
             List<Items> show = new List<Items>();
@@ -86,6 +87,22 @@
                                 File.AppendAllText(path, info);
                             }
                             else { File.AppendAllText(path, '\n' + info); }
+
+                            Console.Clear();
+                            Console.WriteLine("Ваш заказ готов!");
+                            Console.WriteLine("Не желаете сделать еще один заказ? Y/N");
+                            string st = Console.ReadLine();
+                            st = st.ToLower();
+                            if (st != "y")
+                            {
+                                ExitTrigger = false;
+                                return;
+                            }
+                            else
+                            {
+                                Start();
+                            }
+                            
                             break;
                             
                         }
@@ -97,7 +114,7 @@
                         }
                         
                         
-                        ExitTrigger = false;
+                        
                         break;
                     }
                     Console.Clear();
